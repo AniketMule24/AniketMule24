@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Mule 👋
 
-🎓 **B.Tech Artifical Intelligence and Data Science | Aspiring Software Engineer**  
+🎓 **B.Tech Information Technology Student | Aspiring Software Engineer**  
 🤖 **Interests:** Full-Stack Development · AI/ML · LLM Applications · Cloud & DevOps
 
 I enjoy building practical software solutions across web development, backend engineering, and applied AI. I'm continuously developing my skills in full-stack systems, intelligent applications, cloud infrastructure, and deployment workflows.
